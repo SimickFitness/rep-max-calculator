@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rep-max-calculator/static/css/main.e9a945e8.css",
+    "main.js": "/rep-max-calculator/static/js/main.ec8b3eb9.js",
+    "static/js/787.bf2b6d63.chunk.js": "/rep-max-calculator/static/js/787.bf2b6d63.chunk.js",
+    "index.html": "/rep-max-calculator/index.html",
+    "main.e9a945e8.css.map": "/rep-max-calculator/static/css/main.e9a945e8.css.map",
+    "main.ec8b3eb9.js.map": "/rep-max-calculator/static/js/main.ec8b3eb9.js.map",
+    "787.bf2b6d63.chunk.js.map": "/rep-max-calculator/static/js/787.bf2b6d63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9a945e8.css",
+    "static/js/main.ec8b3eb9.js"
+  ]
+}
